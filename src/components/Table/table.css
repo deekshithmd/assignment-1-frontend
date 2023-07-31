@@ -1,0 +1,32 @@
+.container{
+    width:70vw;
+    height:auto;
+}
+
+.heading{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.header{
+    width:100%;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 2px solid rgb(129, 129, 129);
+}
+
+button{
+    display:flex;
+    align-items:center;
+    border: none;
+    background:rgb(49, 46, 213);
+    color:white;
+    padding:5px 10px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.table{
+    width:100%;
+}
