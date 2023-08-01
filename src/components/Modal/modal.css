@@ -34,3 +34,17 @@ input{
     justify-content: space-between;
     cursor: pointer;
 }
+
+.button-container{
+    width:100%;
+    display: flex;
+    justify-content: flex-end;
+    gap:5px;
+    padding: 10px 0px;
+}
+
+.cancel{
+    background: white;
+    border:1px solid rgb(49, 46, 213);
+    color: rgb(49, 46, 213);
+}
